@@ -1,0 +1,12 @@
+{
+  "name": "minibash",
+  "version": "1.0.0",
+  "description": "- 배열, 객체, 문자열을 다루기 위한 사용하기 쉬운 API\r - 외부 의존성 없는 경량화\r - 누구에게나 열려있는 오픈소스",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
